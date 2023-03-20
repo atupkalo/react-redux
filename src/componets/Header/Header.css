@@ -1,0 +1,28 @@
+.header {
+  background: #223451;
+  text-align: center;
+}
+.header-title {
+  color: #fff;
+  font-size: 3rem;
+  padding: 50px 0;
+}
+.header-display {
+  padding: 10px 0 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+}
+.display-span {
+  color: rgb(208, 208, 208);
+  font-size: 1.4rem;
+  padding-right: 7px;
+  margin-top: -5px;
+}
+.display {
+  color: #fff;
+  font-size: 2rem;
+}
